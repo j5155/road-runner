@@ -5,6 +5,7 @@ build
 out
 .project
 .classpath
+local.properties
 
 *.iml
 *.ipr
